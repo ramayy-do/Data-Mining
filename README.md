@@ -216,7 +216,7 @@ streamlit run app/app.py
 
 <div align="center">
 
-**Dibuat dengan ❤️ oleh Rama Adhi Saputra**
-*Universitas Dian Nuswantoro — 2026*
+**Create by Rama Adhi Saputra**
+*Dian Nuswantoro University — 2026*
 
 </div>
