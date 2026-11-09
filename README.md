@@ -18,7 +18,7 @@
 
 **DermaSpot** adalah aplikasi website berbasis AI yang memungkinkan pengguna melakukan **skrining awal (self-screening)** terhadap lesi kulit yang mencurigakan. Pengguna cukup mengunggah foto area kulit melalui browser, dan sistem akan memberikan hasil deteksi risiko secara instan beserta rekomendasi tindak lanjut.
 
-Proyek ini dikembangkan sebagai **Tugas Akhir (UAS)** mata kuliah **Kecerdasan Buatan / Machine Learning** di Universitas Dian Nuswantoro (UDINUS) Semarang.
+Proyek ini dikembangkan sebagai **Tugas Akhir (UAS)** mata kuliah **Data Mining** di Universitas Dian Nuswantoro (UDINUS) Semarang.
 
 ---
 
@@ -30,7 +30,7 @@ Proyek ini dikembangkan sebagai **Tugas Akhir (UAS)** mata kuliah **Kecerdasan B
 | **NIM** | A11.2024.15847 |
 | **Kelas** | A11.4507 |
 | **Dosen Pengampu** | Abu Salam, M.Kom |
-| **Mata Kuliah** | Kecerdasan Buatan / Machine Learning |
+| **Mata Kuliah** | Data Mining |
 | **Universitas** | Universitas Dian Nuswantoro (UDINUS) |
 
 ---
